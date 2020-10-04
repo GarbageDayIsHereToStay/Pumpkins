@@ -3,7 +3,10 @@
 	<name>Pumpkins</name>
 	<author>GarbageDayIsHereToStay</author>
 	<packageId>GarbageDayIsHereToStay.Pumpkins</packageId>
-	<supportedVersions><li>1.1</li></supportedVersions>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
 	<description>
 		Pumpkin! 
 	</description>
